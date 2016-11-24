@@ -1,0 +1,6 @@
+.DS_Store
+pybind11/
+c-core/
+out/
+*.so
+*.pyc
